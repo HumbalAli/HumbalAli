@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HumbalAli
 - 👀 I’m interested in coding
-- 🌳 I have learned typescript , html , css
-- 🌱 I am currently learning next.js , figma , tailwind css
+- 🌳 I have learned typescript , html , css, tailwind css, front end developing
+- 🌱 I am currently learning about next.js , figma ,
